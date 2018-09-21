@@ -8,4 +8,6 @@
 
     <string name="resultadoGasolina">Melhor utilizar Gasolina!</string>
     <string name="resultadoAlcool">Melhor utilizar Alcool!</string>
+    <string name="resultadoIgual">Tanto Faz ¯\_(ツ)_/¯</string>
+    <string name="erro">Preencha ambos os campos</string>
 </resources>
