@@ -4,4 +4,8 @@
     <string name="descricao">Saida a melhor opção para o abastecimento do seu carro</string>
     <string name="tituloAlcool">Preço Alcool (por litro)</string>
     <string name="tituloGasolina">Preço Gasolina (por litro)</string>
+    <string name="calcular">Calcular</string>
+
+    <string name="resultadoGasolina">Melhor utilizar Gasolina!</string>
+    <string name="resultadoAlcool">Melhor utilizar Alcool!</string>
 </resources>
