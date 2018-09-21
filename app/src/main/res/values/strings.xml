@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Alcool ou Gasolina</string>
+
+    <string name="descricao">Saida a melhor opção para o abastecimento do seu carro</string>
 </resources>
